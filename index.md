@@ -11,6 +11,6 @@ Henry Charles Bukowski Jr. war ein US-amerikanischer Dichter und Schriftsteller.
  Eines seiner Zitate:
  > Liebe ist eine Art Vorurteil. Ich habe schon genug Vorurteile...
  
- Foto: Quelle Wikipedia
- <img src="https://de.wikipedia.org/wiki/Datei:CharlesBukowski-1.jpg"/>
+ Foto: Quelle welt.de
+ <img src="https://www.welt.de/kultur/literarischewelt/article167781551/Er-war-der-Dschungelkoenig-der-Achtziger.html#cs-BUKOWSKI-BORN-INTO-THIS-Charles-Bukowski-2004-c-Magnolia-Picturescourtesy-Evere.jpg"/>
 
