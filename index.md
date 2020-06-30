@@ -7,4 +7,7 @@ Henry Charles Bukowski Jr. war ein US-amerikanischer Dichter und Schriftsteller.
   * Alkoholiker
   * Obdachlose
   * Prostituierte
+ 
+ Eines seiner Zitate:
+ > Liebe ist eine Art Vorurteil. Ich habe schon genug Vorurteile...
 
