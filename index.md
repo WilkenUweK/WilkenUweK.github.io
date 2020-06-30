@@ -12,5 +12,5 @@ Henry Charles Bukowski Jr. war ein US-amerikanischer Dichter und Schriftsteller.
  > Liebe ist eine Art Vorurteil. Ich habe schon genug Vorurteile...
  
  Foto (Quelle Wikipedia)
- <img src="https://de.wikipedia.org/wiki/Datei:CharlesBukowski-1.jpg"/>
+ <img src=https://de.wikipedia.org/wiki/Datei:CharlesBukowski-1.jpg/>
 
